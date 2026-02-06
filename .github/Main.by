@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Substitua pelo token do BotFather
-BOT_TOKEN = "8526181853"
+BOT_TOKEN = "AAEEgqJtdGOu_UlGBSsVNu85Yljm_7xR7QE"
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
